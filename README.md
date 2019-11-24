@@ -24,3 +24,5 @@ The code has following parameters in nn.py that can be varied
 7) learning_rate - how fast converge the weights of the NN
 8) trainfilename - name and path of the training file
 9) testfilename - name and path of the testing file
+
+The results of the sample test.txt and train.txt (found in this folder) can be viewed in Data.xlsx (cn be found in the folder). The results have been recorded by varying different parameters from the above list.
